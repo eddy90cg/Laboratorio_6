@@ -130,15 +130,19 @@ En este punto se indicará en una tabla todos los recursos que se han empleado p
 * RESPUESTA A INTERROGANTES:
 
 
-¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
+* ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
 Mediante la practica  se obtuvo valores  mediante los cuales se pudo notar la transferencia de maxima potencia  sin embargo era necesario realizar la medicion con una resistencia de 1200 ohms para  obtener la maxima potencia ya que para que se de la maxima transferencia de potencia la reisistencia de carga debe ser iguala a la resistencia de thevenin
 6.5.5.
 
-¿Cuál fue la potencia máxima en RL? 0,04685 W  aplicando el teorema de maxima transferencia de potencia es necesario una resistencia rl = 1200 ohms ya que para obtener la ,axima transferencia de pontencia debe ser igual a la resistencia de thevenin del circuito qeuivalente 
+* ¿Cuál fue la potencia máxima en RL? 
+
+0,04685 W  aplicando el teorema de maxima transferencia de potencia es necesario una resistencia rl = 1200 ohms ya que para obtener la ,axima transferencia de pontencia debe ser igual a la resistencia de thevenin del circuito qeuivalente 
 6.5.6. 
 
-¿Para qué valor de RL se obtiene la MTP?  1500 Ohm
+* ¿Para qué valor de RL se obtiene la MTP?  
+ 
+1500 Ohm
 
 * ANALISIS DE RESULTADOS: 
 
