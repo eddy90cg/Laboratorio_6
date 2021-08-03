@@ -15,10 +15,7 @@ OBJETIVOS ESPECÍFICOS:
 
 * Calcular el error que se da entre los valores obtenidos por medicion y los valores obtenidos por los cálculos. 
 
-* Comprender la metodología del Teorema de la Máxima Transferencia de Potencia para aplicarlo en la resolución de circuitos
-
-* --------------------------------------------------
-
+* Identificar y comprender la teoría y las fórmulas del Teorema de Máxima Transferencia de Potencia para desarrollar correctamente los circuitos. 
 
 # 2.	MARCO TEÓRICO.- 
 
@@ -224,7 +221,7 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
 
 * Se comprendió y se entendió el Teorema de Máxima Transferencia de Potencia, mediante el laboratorio realizado.
 
-* -------------------------------------------------
+* Finalmente despúes de analizar como funciona el Teorema de Máxima Transferencia de Potencia se pudo tener una mayor eficacia y experticia para desarrollar el circutio, además, se pudo optimizar el aprendizaje y aumentar el conocimiento.
 
 # 7.	BIBLIOGRAFÍA
 
