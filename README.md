@@ -149,7 +149,7 @@ Para poder aplicar este teorema:
 
 * Gráfica de la Máxima Transferencia de Potencia:
 
-![]()
+![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Gráfica%20de%20máxima%20transferencia%20de%20potencia.png)
 
 Para obtener los valores mostrados realizamos los siguientes cálculos:
 
