@@ -131,7 +131,7 @@ Para poder aplicar este teorema:
 | 470 | 8.98 | 4.22 | 0.03790 | 0.03791 |
 | 680 | 7.98 | 5.43 | 0.04330 | 0.04328 |
 | 820 | 7.43 | 6.09 | 0.04526 | 0.04520 |
-| 1000 | 6.82 | 6.82 | 1 | 1 |
+| 1000 | 6.82 | 6.82 | 0.04651 | 0.04648 |
 | 1500 | 5.56 | 8.33 | 1 | 1 |
 | 1800 | 5.00 | 9.00 | 1 | 1 |
 | 2200 | 4.41 | 9.71 | 1 | 1 |
@@ -164,7 +164,7 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" />
 
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=1000\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=6.82mA=0.00682A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;1000\Omega}=6.818\times10^{-6}mA=0.006818A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00682A)^2\cdot&space;(1000\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.006818A)^2\cdot&space;(1000\Omega)&space;\\&space;&P=0.04651W&space;&&space;&&space;&&space;&&space;P=0.04648W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=1000\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=6.82mA=0.00682A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+1000\Omega}=6.818\times10^{-6}mA=0.006818A \\ &P=I^2\cdot R_L=(0.00682A)^2\cdot (1000\Omega) & & & & P=I^2\cdot R_L=(0.006818A)^2\cdot (1000\Omega) \\ &P=0.04651W & & & & P=0.04648W \\ \end{align*}" />
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?1500\Omega" title="1500\Omega" />
 
