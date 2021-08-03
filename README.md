@@ -56,57 +56,54 @@ Para poder aplicar este teorema:
 
 * Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla
 
-* LISTA DE COMPONENTES:
-
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo.
+* Equipos y Materiales necesarios::
 
 ![WhatsApp Image 2021-03-29 at 8 01 15 PM](https://user-images.githubusercontent.com/76057459/112918111-bb4acd80-90c9-11eb-8165-ca2968878bd4.jpeg)
 
-
-Figura, Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia:
+* Figura, Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia:
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Diagrama%20esquemático%20RL.jpeg)
 
-Circuito Experimental Armado
+* Circuito Experimental Armado
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20Experimental%20Armado.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=200\Omega" title="R_L=200\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=200\Omega" title="R_L=200\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D220%20Ohm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=470\Omega" title="R_L=470\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=470\Omega" title="R_L=470\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D470%20Ohm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=680\Omega" title="R_L=680\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=680\Omega" title="R_L=680\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D680%20Ohm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=820\Omega" title="R_L=820\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=820\Omega" title="R_L=820\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D820%20Ohm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1k\Omega" title="R_L=1k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1k\Omega" title="R_L=1k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D1%20kOhm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1.5k\Omega" title="R_L=1.5k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1.5k\Omega" title="R_L=1.5k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D1.5%20kOhm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1.8k\Omega" title="R_L=1.8k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=1.8k\Omega" title="R_L=1.8k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D1.8%20kOhm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=2.2k\Omega" title="R_L=2.2k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=2.2k\Omega" title="R_L=2.2k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D2.2%20kOhm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=3.9k\Omega" title="R_L=3.9k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=3.9k\Omega" title="R_L=3.9k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D3.9%20kOhm.jpeg)
 
-Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=4.7k\Omega" title="R_L=4.7k\Omega" />
+* Circuito Experimental con mediciones de Voltaje y Corriente de <img src="https://latex.codecogs.com/svg.latex?R_L=4.7k\Omega" title="R_L=4.7k\Omega" />
 
 ![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Circuito%20con%20RL%3D4.7%20kOhm.jpeg)
 
