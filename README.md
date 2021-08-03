@@ -127,16 +127,16 @@ Para poder aplicar este teorema:
 
 | <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
 | :--: | :--: | :--: | :--: | :--: |
-| 220 | 1 | 1 | 1 | 1 |
-| 470 | 1 | 1 | 1 | 1 |
-| 680 | 1 | 1 | 1 | 1 |
-| 820 | 1 | 1 | 1 | 1 |
-| 1000 | 1 | 1 | 1 | 1 |
-| 1500 | 1 | 1 | 1 | 1 |
-| 1800 | 1 | 1 | 1 | 1 |
-| 2200 | 1 | 1 | 1 | 1 |
-| 3900 | 1 | 1 | 1 | 1 |
-| 4700 | 1 | 1 | 1 | 1 |
+| 220 | 10.6 | 2.32 | 1 | 1 |
+| 470 | 8.98 | 4.22 | 1 | 1 |
+| 680 | 7.98 | 5.43 | 1 | 1 |
+| 820 | 7.43 | 6.09 | 1 | 1 |
+| 1000 | 6.82 | 6.82 | 1 | 1 |
+| 1500 | 5.56 | 8.33 | 1 | 1 |
+| 1800 | 5.00 | 9.00 | 1 | 1 |
+| 2200 | 4.41 | 9.71 | 1 | 1 |
+| 3900 | 2.94 | 11.5 | 1 | 1 |
+| 4700 | 2.54 | 11.9 | 1 | 1 |
 
 ![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
 
