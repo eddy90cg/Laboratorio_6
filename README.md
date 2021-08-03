@@ -123,20 +123,15 @@ Para poder aplicar este teorema:
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
-* Tabla de Registro de datos tomados para el Circuito Equivalente:
+* Parámetros Eléctricos del Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia
 
 ![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
-
-* ERROR PORCENTUAL FORMULA:
-
-![formula_error](https://user-images.githubusercontent.com/76057459/113041732-e8e25600-915f-11eb-8ee5-e57f8437d38e.png)
 
 * PORCENTAJE DE ERROR CALCULADO EN TABLA: 
 
 ![ERROR LAB8](https://user-images.githubusercontent.com/76057459/113041686-da943a00-915f-11eb-9773-34b5df1795b6.jpeg)
 
 * RESPUESTA A INTERROGANTES:
-
 
 * ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
@@ -156,7 +151,9 @@ Mediante la practica  se obtuvo valores  mediante los cuales se pudo notar la tr
 
 De acuerdo a lsa guia se realizo la practica con los valores de la resistencia RL dados previamente con los cuales no se pudo obtener la maxima potencia  pues era necesario  realizar la prueba con un resistor de 1200 ohms , Analizando los resultados  se observa que el valor de la potencia aumenta proporcioalmemte  respecto a  la carga que3 se acerca  al valor de la resistencia de thevenin 
 
+* ERROR PORCENTUAL FORMULA:
 
+![formula_error](https://user-images.githubusercontent.com/76057459/113041732-e8e25600-915f-11eb-8ee5-e57f8437d38e.png)
 
 # 5. VIDEO
 
