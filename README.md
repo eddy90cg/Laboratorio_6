@@ -11,9 +11,9 @@ OBJETIVO GENERAL:
 
 OBJETIVOS ESPECÍFICOS: 
 
-* AObtener mediante  la simulacion valores de voltaje y corriente  para  comprobar el teorema de maxima transferencia de potencia  que se da  a taraves de una resistencia RL conectado a un circuito emisor de dicha potencia. 
+* Obtener mediante  la simulacion valores de voltaje y corriente  para  comprobar el teorema de máxima transferencia de potencia  que se da  a traves de una resistencia RL conectado a un circuito emisor de dicha potencia. 
 
-* Calcular el error que se da entre los valores obtenidos por medicion y los valores obtenidos por los calculos. 
+* Calcular el error que se da entre los valores obtenidos por medicion y los valores obtenidos por los cálculos. 
 
 * -----------------------------------------
 
@@ -22,7 +22,7 @@ OBJETIVOS ESPECÍFICOS:
 
 # 2.	MARCO TEÓRICO.- 
 
-# Teorema de maxima Transferencia de potencia
+# Teorema de Máxima Transferencia de potencia
 
 * Resumen: 
 
