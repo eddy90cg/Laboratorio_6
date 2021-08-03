@@ -128,7 +128,7 @@ Para poder aplicar este teorema:
 | <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
 | :--: | :--: | :--: | :--: | :--: |
 | 220 | 10.6 | 2.32 | 0.02471 | 0.02453 |
-| 470 | 8.98 | 4.22 | 1 | 1 |
+| 470 | 8.98 | 4.22 | 0.03790 | 0.03791 |
 | 680 | 7.98 | 5.43 | 1 | 1 |
 | 820 | 7.43 | 6.09 | 1 | 1 |
 | 1000 | 6.82 | 6.82 | 1 | 1 |
@@ -146,8 +146,13 @@ Para poder aplicar este teorema:
 
 Para obtener los valores mostrados realizamos los siguientes cálculos:
 
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?220\Omega" title="220\Omega" />
+
 <img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=220\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=10.6mA=0.0106A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;220\Omega}=10.56mA=0.01056A&space;\\&space;&P=I^2\cdot&space;R_L=(0.0106A)^2\cdot&space;(220\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.01056A)^2\cdot&space;(220\Omega)&space;\\&space;&P=0.02471W&space;&&space;&&space;&&space;&&space;P=0.02453W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=220\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=10.6mA=0.0106A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+220\Omega}=10.56mA=0.01056A \\ &P=I^2\cdot R_L=(0.0106A)^2\cdot (220\Omega) & & & & P=I^2\cdot R_L=(0.01056A)^2\cdot (220\Omega) \\ &P=0.02471W & & & & P=0.02453W \\ \end{align*}" />
 
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?470\Omega" title="470\Omega" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=220\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=8.98mA=0.00898A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;470\Omega}=8.982\times10^{-6}mA=0.008982A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00898A)^2\cdot&space;(470\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.00898A)^2\cdot&space;(470\Omega)&space;\\&space;&P=0.03790W&space;&&space;&&space;&&space;&&space;P=0.03791W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=220\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=8.98mA=0.00898A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+470\Omega}=8.982\times10^{-6}mA=0.008982A \\ &P=I^2\cdot R_L=(0.00898A)^2\cdot (470\Omega) & & & & P=I^2\cdot R_L=(0.00898A)^2\cdot (470\Omega) \\ &P=0.03790W & & & & P=0.03791W \\ \end{align*}" />
 
 
 * RESPUESTA A INTERROGANTES:
