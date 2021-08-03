@@ -142,8 +142,8 @@ Para poder aplicar este teorema:
 
 | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | **Error %** |
 | :--: | :--: | :--: |
-| 0.02471 | 0.02453 ||
-| 0.03790 | 0.03791 ||
+| 0.02471 | 0.02453 | -0.73 |
+| 0.03790 | 0.03791 |  |
 | 0.04330 | 0.04328 ||
 | 0.04526 | 0.04520 ||
 | 0.04651 | 0.04648 ||
