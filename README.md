@@ -123,7 +123,7 @@ Para poder aplicar este teorema:
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
-* Parámetros Eléctricos del Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia
+* Parámetros Eléctricos del Circuito Teórico para comprobar el Teorema de la Máxima Transferencia de Potencia:
 
 | <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
 | :--: | :--: | :--: | :--: | :--: |
@@ -137,6 +137,8 @@ Para poder aplicar este teorema:
 | 2200 | 4.41 | 9.71 | 0.04278 | 0.04280 |
 | 3900 | 2.94 | 11.5 | 0.03371 | 0.03373 |
 | 4700 | 2.54 | 11.9 | 0.03032 | 0.03037 |
+
+* Porcentaje de Error Obtenido
 
 ![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
 
