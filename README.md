@@ -58,7 +58,21 @@ Para poder aplicar este teorema:
 
 * Equipos y Materiales necesarios::
 
-![WhatsApp Image 2021-03-29 at 8 01 15 PM](https://user-images.githubusercontent.com/76057459/112918111-bb4acd80-90c9-11eb-8165-ca2968878bd4.jpeg)
+| **Cantidad** | **Elemento** |
+| :---: | :---: |
+| 1 | Fuente de Voltaje de C.D.  |
+| 1 | Multímetro Digital |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?220\Omega" title="220\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?470\Omega" title="470\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?680\Omega" title="680\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?820\Omega" title="820\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1.5k\Omega" title="1.5k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1.8k\Omega" title="1.8k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?2.2k\Omega" title="2.2k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?3.9k\Omega" title="3.9k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?4.7k\Omega" title="4.7k\Omega" /> |
+| 1 | Protoboard |
 
 * Figura, Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia:
 
