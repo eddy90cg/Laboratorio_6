@@ -135,8 +135,8 @@ Para poder aplicar este teorema:
 | 1500 | 5.56 | 8.33 | 0.04637 | 0.04630 |
 | 1800 | 5.00 | 9.00 | 0.045 | 0.045 |
 | 2200 | 4.41 | 9.71 | 0.04278 | 0.04280 |
-| 3900 | 2.94 | 11.5 | 1 | 1 |
-| 4700 | 2.54 | 11.9 | 1 | 1 |
+| 3900 | 2.94 | 11.5 | 0.03371 | 0.03373 |
+| 4700 | 2.54 | 11.9 | 0.03032 | 0.03037 |
 
 ![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
 
@@ -180,12 +180,11 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?3900\Omega" title="3900\Omega" />
 
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=3900\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=2.94mA=0.00294A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;3900\Omega}=2.941\times10^{-6}mA=0.002941A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00294A)^2\cdot&space;(3900\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.002941A)^2\cdot&space;(3900\Omega)&space;\\&space;&P=0.03371W&space;&&space;&&space;&&space;&&space;P=0.03373W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=3900\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=2.94mA=0.00294A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+3900\Omega}=2.941\times10^{-6}mA=0.002941A \\ &P=I^2\cdot R_L=(0.00294A)^2\cdot (3900\Omega) & & & & P=I^2\cdot R_L=(0.002941A)^2\cdot (3900\Omega) \\ &P=0.03371W & & & & P=0.03373W \\ \end{align*}" />
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?4700\Omega" title="4700\Omega" />
 
-
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=4700\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=2.54mA=0.00254A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;4700\Omega}=2.542\times10^{-6}mA=0.002542A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00254A)^2\cdot&space;(4700\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.002542A)^2\cdot&space;(4700\Omega)&space;\\&space;&P=0.03032W&space;&&space;&&space;&&space;&&space;P=0.03037W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=4700\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=2.54mA=0.00254A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+4700\Omega}=2.542\times10^{-6}mA=0.002542A \\ &P=I^2\cdot R_L=(0.00254A)^2\cdot (4700\Omega) & & & & P=I^2\cdot R_L=(0.002542A)^2\cdot (4700\Omega) \\ &P=0.03032W & & & & P=0.03037W \\ \end{align*}" />
 
 * RESPUESTA A INTERROGANTES:
 
