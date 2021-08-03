@@ -46,10 +46,9 @@ El teorema de maxima transferencia de potencia  establece que la potencia maxima
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
 
-DIAGRAMA TEORICO:
+Figura, Circuito Teórico para comprobar el Teorema de la máxima transferencia de potencia:
 
-
-![WhatsApp Image 2021-03-29 at 8 01 16 PM (1)](https://user-images.githubusercontent.com/76057459/112998798-013c7b80-9134-11eb-8bfe-dba3967e9857.jpeg)
+![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Lab%206/Diagrama%20esquemático%20RL.jpeg)
 
 Para poder aplicar este teorema: 
 
