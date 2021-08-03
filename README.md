@@ -143,22 +143,15 @@ Para poder aplicar este teorema:
 | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | **Error %** |
 | :--: | :--: | :--: |
 | 0.02471 | 0.02453 | -0.73 |
-| 0.03790 | 0.03791 |  |
-| 0.04330 | 0.04328 ||
-| 0.04526 | 0.04520 ||
-| 0.04651 | 0.04648 ||
-| 0.04637 | 0.04630 ||
-| 0.045 | 0.045 ||
-| 0.04278 | 0.04280 ||
-| 0.03371 | 0.03373 ||
-| 0.03032 | 0.03037 ||
-
-
-![WhatsApp Image 2021-03-30 at 11 58 52 AM](https://user-images.githubusercontent.com/76057459/113027184-6b164e80-914f-11eb-828f-3d85d120ec09.jpeg)
-
-* PORCENTAJE DE ERROR CALCULADO EN TABLA: 
-
-![ERROR LAB8](https://user-images.githubusercontent.com/76057459/113041686-da943a00-915f-11eb-9773-34b5df1795b6.jpeg)
+| 0.03790 | 0.03791 | 0.02 |
+| 0.04330 | 0.04328 | -0.04 |
+| 0.04526 | 0.04520 | -0.13 |
+| 0.04651 | 0.04648 | -0.06 |
+| 0.04637 | 0.04630 | -0.15 |
+| 0.045 | 0.045 | 0 |
+| 0.04278 | 0.04280 | 0.04 |
+| 0.03371 | 0.03373 | 0.05 |
+| 0.03032 | 0.03037 | 0.16 |
 
 Para obtener los valores mostrados realizamos los siguientes cálculos:
 
