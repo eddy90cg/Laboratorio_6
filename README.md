@@ -133,7 +133,7 @@ Para poder aplicar este teorema:
 | 820 | 7.43 | 6.09 | 0.04526 | 0.04520 |
 | 1000 | 6.82 | 6.82 | 0.04651 | 0.04648 |
 | 1500 | 5.56 | 8.33 | 0.04637 | 0.04630 |
-| 1800 | 5.00 | 9.00 | 1 | 1 |
+| 1800 | 5.00 | 9.00 | 0.045 | 0.045 |
 | 2200 | 4.41 | 9.71 | 1 | 1 |
 | 3900 | 2.94 | 11.5 | 1 | 1 |
 | 4700 | 2.54 | 11.9 | 1 | 1 |
@@ -172,7 +172,7 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?1800\Omega" title="1800\Omega" />
 
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=1800\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=5.00mA=0.005A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;1800\Omega}=5\times10^{-6}mA=0.005A&space;\\&space;&P=I^2\cdot&space;R_L=(0.005)^2\cdot&space;(1800\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.005)^2\cdot&space;(1800\Omega)&space;\\&space;&P=0.045W&space;&&space;&&space;&&space;&&space;P=0.045W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=1800\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=5.00mA=0.005A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+1800\Omega}=5\times10^{-6}mA=0.005A \\ &P=I^2\cdot R_L=(0.005)^2\cdot (1800\Omega) & & & & P=I^2\cdot R_L=(0.005)^2\cdot (1800\Omega) \\ &P=0.045W & & & & P=0.045W \\ \end{align*}" />
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?2200\Omega" title="2200\Omega" />
 
