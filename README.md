@@ -127,7 +127,7 @@ Para poder aplicar este teorema:
 
 | <img src="https://latex.codecogs.com/svg.latex?R_L(\Omega)" title="R_L(\Omega)" /> | Corriente Medida <img src="https://latex.codecogs.com/svg.latex?(mA)" title="(mA)" /> | Voltaje Medido <img src="https://latex.codecogs.com/svg.latex?(V)" title="(V)" /> | Potencia calculada experimentalmente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> | Potencia calculada teóricamente <img src="https://latex.codecogs.com/svg.latex?(W)" title="(W)" /> |
 | :--: | :--: | :--: | :--: | :--: |
-| 220 | 10.6 | 2.32 | 1 | 1 |
+| 220 | 10.6 | 2.32 | 0.02471 | 0.02453 |
 | 470 | 8.98 | 4.22 | 1 | 1 |
 | 680 | 7.98 | 5.43 | 1 | 1 |
 | 820 | 7.43 | 6.09 | 1 | 1 |
@@ -143,6 +143,12 @@ Para poder aplicar este teorema:
 * PORCENTAJE DE ERROR CALCULADO EN TABLA: 
 
 ![ERROR LAB8](https://user-images.githubusercontent.com/76057459/113041686-da943a00-915f-11eb-9773-34b5df1795b6.jpeg)
+
+Para obtener los valores mostrados realizamos los siguientes cálculos:
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=220\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=10.6mA=0.0106A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;220\Omega}=10.56mA=0.01056A&space;\\&space;&P=I^2\cdot&space;R_L=(0.0106A)^2\cdot&space;(220\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.01056A)^2\cdot&space;(220\Omega)&space;\\&space;&P=0.02471W&space;&&space;&&space;&&space;&&space;P=0.02453W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=220\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=10.6mA=0.0106A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+220\Omega}=10.56mA=0.01056A \\ &P=I^2\cdot R_L=(0.0106A)^2\cdot (220\Omega) & & & & P=I^2\cdot R_L=(0.01056A)^2\cdot (220\Omega) \\ &P=0.02471W & & & & P=0.02453W \\ \end{align*}" />
+
+
 
 * RESPUESTA A INTERROGANTES:
 
