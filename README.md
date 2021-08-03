@@ -221,7 +221,7 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
 
 * Se comprendió y se entendió el Teorema de Máxima Transferencia de Potencia, mediante el laboratorio realizado.
 
-* Finalmente despúes de analizar como funciona el Teorema de Máxima Transferencia de Potencia se pudo tener una mayor eficacia y experticia para desarrollar el circutio, además, se pudo optimizar el aprendizaje y aumentar el conocimiento.
+* Finalmente despúes de analizar como funciona el Teorema de Máxima Transferencia de Potencia se pudo tener una mayor eficacia y experticia para desarrollar el circuito, además, se pudo optimizar el aprendizaje y aumentar el conocimiento.
 
 # 7.	BIBLIOGRAFÍA
 
