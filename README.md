@@ -211,7 +211,7 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
 
 # 5. VIDEO
 
-* aca ira el link de  youtube
+*  link de  youtube: https://youtu.be/ypkEQz4nbDw
 
 # 6.	CONCLUSIONES
 
