@@ -15,7 +15,7 @@ OBJETIVOS ESPECÍFICOS:
 
 * Calcular el error que se da entre los valores obtenidos por medicion y los valores obtenidos por los cálculos. 
 
-* -----------------------------------------
+* Comprender la metodología del Teorema de la Máxima Transferencia de Potencia para aplicarlo en la resolución de circuitos
 
 * --------------------------------------------------
 
@@ -199,7 +199,7 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
-No se encontró la Máxima Transferencia de Potencia, pues el teorema nos dice que para tener la maxima transferencia de potencia la resistencia de carga debe ser igual a la resistencia de Thévenin <img src="https://latex.codecogs.com/svg.latex?(R_L=R_{TH})" title="(R_L=R_{TH})" /> y la resistencia más cercana a la resistencia de Thévenin, es la resistencia de <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" /> 
+No se encontró la Máxima Transferencia de Potencia, pues el teorema nos dice que para tener la maxima transferencia de potencia la resistencia de carga debe ser igual a la resistencia de Thévenin <img src="https://latex.codecogs.com/svg.latex?(R_L=R_{TH})" title="(R_L=R_{TH})" /> y la resistencia más cercana a la resistencia de Thévenin de nuestro circuito, es la resistencia de <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" /> 
 
 * ¿Cuál fue la potencia máxima en RL? 
 
@@ -209,7 +209,7 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
  
  La Máxima Transferencia de Potencia del laboratorio se encuentró con <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" /> 
  
- La Máxima Transferencia de Potencia se debe obtener con una resistencia igual a la de Thévenin, es decir, con <img src="https://latex.codecogs.com/svg.latex?1200\Omega" title="1200\Omega" /> 
+ La Máxima Transferencia de Potencia se debe obtener con una resistencia igual a la de Thévenin de nuestro circuito, es decir, con <img src="https://latex.codecogs.com/svg.latex?1200\Omega" title="1200\Omega" /> 
 
 * Formula a aplicar para el cálculo del ERROR:
 
@@ -221,11 +221,11 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
 
 # 6.	CONCLUSIONES
 
-* La maxima transferencia de potencia sera cuando la rtesistencia de carga sea igual a la resistencia de thevenin del circuito
+* La maxima transferencia de potencia sera cuando la rtesistencia de carga sea igual a la resistencia de thévenin del circuito.
 
 * En la practica se obtuvo diferentes valores de voltaje y corriente mediante los cuales pudimos calcular la potencia en la resistencia RL
 
-* -------------------------------------------------
+* Se comprendió y se entendió el Teorema de Máxima Transferencia de Potencia, mediante el laboratorio realizado.
 
 * -------------------------------------------------
 
