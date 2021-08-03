@@ -130,7 +130,7 @@ Para poder aplicar este teorema:
 | 220 | 10.6 | 2.32 | 0.02471 | 0.02453 |
 | 470 | 8.98 | 4.22 | 0.03790 | 0.03791 |
 | 680 | 7.98 | 5.43 | 0.04330 | 0.04328 |
-| 820 | 7.43 | 6.09 | 1 | 1 |
+| 820 | 7.43 | 6.09 | 0.04526 | 0.04520 |
 | 1000 | 6.82 | 6.82 | 1 | 1 |
 | 1500 | 5.56 | 8.33 | 1 | 1 |
 | 1800 | 5.00 | 9.00 | 1 | 1 |
@@ -160,7 +160,7 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?820\Omega" title="820\Omega" />
 
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=820\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=7.43mA=0.00743A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;820\Omega}=7.425\times10^{-6}mA=0.007425A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00743A)^2\cdot&space;(820\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.007425A)^2\cdot&space;(820\Omega)&space;\\&space;&P=0.04526W&space;&&space;&&space;&&space;&&space;P=0.04520W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=820\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=7.43mA=0.00743A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+820\Omega}=7.425\times10^{-6}mA=0.007425A \\ &P=I^2\cdot R_L=(0.00743A)^2\cdot (820\Omega) & & & & P=I^2\cdot R_L=(0.007425A)^2\cdot (820\Omega) \\ &P=0.04526W & & & & P=0.04520W \\ \end{align*}" />
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" />
 
