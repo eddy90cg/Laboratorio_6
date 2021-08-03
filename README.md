@@ -156,7 +156,7 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?680\Omega" title="680\Omega" />
 
-
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=680\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=7.98mA=0.00798A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;680\Omega}=7.978\times10^{-6}mA=0.007978A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00798A)^2\cdot&space;(680\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.007978A)^2\cdot&space;(680\Omega)&space;\\&space;&P=0.04330W&space;&&space;&&space;&&space;&&space;P=0.04328W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=680\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=7.98mA=0.00798A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+680\Omega}=7.978\times10^{-6}mA=0.007978A \\ &P=I^2\cdot R_L=(0.00798A)^2\cdot (680\Omega) & & & & P=I^2\cdot R_L=(0.007978A)^2\cdot (680\Omega) \\ &P=0.04330W & & & & P=0.04328W \\ \end{align*}" />
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?820\Omega" title="820\Omega" />
 
