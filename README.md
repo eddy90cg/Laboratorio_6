@@ -211,7 +211,7 @@ La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.l
  
  La Máxima Transferencia de Potencia se debe obtener con una resistencia igual a la de Thévenin de nuestro circuito, es decir, con <img src="https://latex.codecogs.com/svg.latex?1200\Omega" title="1200\Omega" /> 
 
-* Formula a aplicar para el cálculo del ERROR:
+* Fórmula a aplicar para el cálculo del ERROR:
 
 <img src="https://latex.codecogs.com/svg.latex?\large&space;\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;\\&space;&%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\large \begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ \\ &%Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
 
