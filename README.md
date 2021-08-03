@@ -147,10 +147,6 @@ Mediante la practica  se obtuvo valores  mediante los cuales se pudo notar la tr
  
 1500 Ohm
 
-* ANALISIS DE RESULTADOS: 
-
-De acuerdo a lsa guia se realizo la practica con los valores de la resistencia RL dados previamente con los cuales no se pudo obtener la maxima potencia  pues era necesario  realizar la prueba con un resistor de 1200 ohms , Analizando los resultados  se observa que el valor de la potencia aumenta proporcioalmemte  respecto a  la carga que3 se acerca  al valor de la resistencia de thevenin 
-
 * Formula a aplicar para el cálculo del ERROR:
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;&&space;%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ & %Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
