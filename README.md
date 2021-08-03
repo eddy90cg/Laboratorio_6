@@ -1,4 +1,4 @@
-# TEOREMA-DE-LA-MAXIMA-TRANSFERENCIA-DE-POTENCIA
+# TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 
 #### INTEGRANTES: EDISON CADENA - STEVEN FLORES - WILLIAM MOSQUERA
 
@@ -199,21 +199,21 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
-Mediante la practica  se obtuvo valores  mediante los cuales se pudo notar la transferencia de maxima potencia  sin embargo era necesario realizar la medicion con una resistencia de 1200 ohms para  obtener la maxima potencia ya que para que se de la maxima transferencia de potencia la reisistencia de carga debe ser iguala a la resistencia de thevenin
-6.5.5.
+No se encontró la Máxima Transferencia de Potencia, pues el teorema nos dice que para tener la maxima transferencia de potencia la resistencia de carga debe ser igual a la resistencia de Thévenin <img src="https://latex.codecogs.com/svg.latex?(R_L=R_{TH})" title="(R_L=R_{TH})" /> y la resistencia más cercana a la resistencia de Thévenin, es la resistencia de <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" /> 
 
 * ¿Cuál fue la potencia máxima en RL? 
 
-0,04685 W  aplicando el teorema de maxima transferencia de potencia es necesario una resistencia rl = 1200 ohms ya que para obtener la ,axima transferencia de pontencia debe ser igual a la resistencia de thevenin del circuito qeuivalente 
-6.5.6. 
+La Potencia Máxima encontrada fue de <img src="https://latex.codecogs.com/svg.latex?0.04651W" title="0.04651W" />
 
 * ¿Para qué valor de RL se obtiene la MTP?  
  
-1500 Ohm
+ La Máxima Transferencia de Potencia del laboratorio se encuentró con <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" /> 
+ 
+ La Máxima Transferencia de Potencia se debe obtener con una resistencia igual a la de Thévenin, es decir, con <img src="https://latex.codecogs.com/svg.latex?1200\Omega" title="1200\Omega" /> 
 
 * Formula a aplicar para el cálculo del ERROR:
 
-<img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;&&space;%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ & %Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
+<img src="https://latex.codecogs.com/svg.latex?\large&space;\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;\\&space;&%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\large \begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ \\ &%Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
 
 # 5. VIDEO
 
