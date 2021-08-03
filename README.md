@@ -147,6 +147,10 @@ Para poder aplicar este teorema:
 | 0.03371 | 0.03373 | 0.05 |
 | 0.03032 | 0.03037 | 0.16 |
 
+* Gráfica de la Máxima Transferencia de Potencia:
+
+![]()
+
 Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 * Cálculo para <img src="https://latex.codecogs.com/svg.latex?220\Omega" title="220\Omega" />
