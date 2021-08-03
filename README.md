@@ -154,6 +154,38 @@ Para obtener los valores mostrados realizamos los siguientes cálculos:
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&&\textrm{Para&space;$&space;R_L=470\Omega&space;$}\\&space;&\textrm{Potencia&space;calculada&space;experimentalmente}&&space;&&space;&&space;&\textrm{Potencia&space;calculada&space;te\'oricamente}\\&space;&I=8.98mA=0.00898A&space;&&space;&&space;&&space;&&space;I=\frac{V}{R_T}=\frac{15V}{1200\Omega&plus;470\Omega}=8.982\times10^{-6}mA=0.008982A&space;\\&space;&P=I^2\cdot&space;R_L=(0.00898A)^2\cdot&space;(470\Omega)&space;&&space;&&space;&&space;&&space;P=I^2\cdot&space;R_L=(0.00898A)^2\cdot&space;(470\Omega)&space;\\&space;&P=0.03790W&space;&&space;&&space;&&space;&&space;P=0.03791W&space;\\&space;\end{align*}" title="\begin{align*} &&\textrm{Para $ R_L=470\Omega $}\\ &\textrm{Potencia calculada experimentalmente}& & & &\textrm{Potencia calculada te\'oricamente}\\ &I=8.98mA=0.00898A & & & & I=\frac{V}{R_T}=\frac{15V}{1200\Omega+470\Omega}=8.982\times10^{-6}mA=0.008982A \\ &P=I^2\cdot R_L=(0.00898A)^2\cdot (470\Omega) & & & & P=I^2\cdot R_L=(0.00898A)^2\cdot (470\Omega) \\ &P=0.03790W & & & & P=0.03791W \\ \end{align*}" />
 
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?680\Omega" title="680\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?820\Omega" title="820\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?1000\Omega" title="1000\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?1500\Omega" title="1500\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?1800\Omega" title="1800\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?2200\Omega" title="2200\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?3900\Omega" title="3900\Omega" />
+
+
+
+* Cálculo para <img src="https://latex.codecogs.com/svg.latex?4700\Omega" title="4700\Omega" />
+
+
+
 
 * RESPUESTA A INTERROGANTES:
 
