@@ -39,10 +39,7 @@ El teorema de maxima transferencia de potencia  establece que la potencia maxima
 
 * Mentefacto:
 
---------------------
---------------------
--------------------
-![]()
+![](https://github.com/eddy90cg/Laboratorio_6/blob/main/Anexos/Teorema%20de%20Máxima%20Transferencia%20de%20Potencia.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
 
