@@ -50,7 +50,7 @@ Para poder aplicar este teorema:
 
 * Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla
 
-* Equipos y Materiales necesarios::
+* Equipos y Materiales necesarios:
 
 | **Cantidad** | **Elemento** |
 | :---: | :---: |
